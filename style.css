@@ -1,0 +1,217 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+    background-color: #911F27;
+}
+
+header {
+    padding-bottom: 20px;
+    
+}
+
+.container {
+    width: 1160px;
+    background-color: white;
+    text-align: left;
+    opacity: 10;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+    color: black;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    padding-left: 20px;
+    padding-top: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.next {
+    text-align: right;
+}
+
+
+.date {
+    text-align: right;
+}
+
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color: black;
+}
+
+input:focus {
+    border-color: black
+}
+
+
+.add input {
+    width: 1200px;
+}
+
+.pnr input {
+    width: 280px;
+}
+
+.fmn input {
+    width: 440px;
+}
+
+.name input {
+    width: 260px;
+}
+
+.ba input {
+    width: 340px;
+}
+
+.me input {
+    width: 432px;
+}
+
+.na input {
+    width: 1000px;
+}
+
+.ca input {
+    width: 690px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 1200px;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 5 px;
+}
+img {
+    height: 75px;
+    width: 75px;
+    padding-left: 80px;
+    float: left;
+}
+
+.qwe {
+    font-size: 15px;
+    font-style: normal;
+    font-weight: normal;
+    vertical-align: middle;
+    text-align: center;
+}
+
+.zxc {
+    font-size: 20px;
+    font-style: bold;
+    font-weight: normal;
+}
+
+.fm {
+    font-size: 10px;
+    font-style: normal;
+    font-weight: normal;
+    text-align: center;
+}
+
+.ad {
+    text-align: center;
+    width: 200px;
+}
+
+.center {
+    margin:auto auto;
+    justify-content: center;
+    background-color: white;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+body {
+    padding-left: 30px;
+}
+
+.sign {
+    padding-left: 800px;
+    width: 300px;
+}
+
+.sign input {
+    width: 290px;
+}
+
+.left, th {
+    text-align: left;
+    padding-top: 0px;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.left input {
+    width: 500px;
+}
+
+.bottom {
+    width: auto;
+}
+
+.right {
+    width: 300px;
+    text-align: left;
+    font-style: normal;
+    font-weight: normal;
+}
+
+.right1 {
+    text-align: left;
+    font-size: 17px;
+    font-style: normal;
+    font-weight: normal;
+}
+
+input[type=submit] {
+    background-color: #911F27;
+    border: 1px solid black;
+    color: white;
+    font-size: 20px;
+    font-family: arial;
+    padding: 16px 32px;
+    text-decoration: none;
+    text-decoration-color: white;
+    margin: auto auto;
+    cursor: pointer;
+    border-bottom-left-radius: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
+
+input[type=submit]:hover {
+    background-color: gray;
+    color: black;
+}
+
+.next {
+    font-size: 20px;
+    color: white;
+    background-color: white;
+    font-style: normal;
+}
+
+.regline{
+    text-align: left;
+    padding-left: 218px;
+}
+
+.regt {
+    text-align: left;
+    padding-left: 250px;
+}
